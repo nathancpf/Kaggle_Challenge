@@ -2,4 +2,4 @@
 # But they will stay on your computer working directory
 # git status will show nothing is wrong
 
-.txt
+*.txt
